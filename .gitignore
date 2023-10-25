@@ -1,0 +1,19 @@
+# .gitignore
+
+# General
+
+.DS_Store
+
+# Dart <https://dart.dev/guides/libraries/private-files>
+
+.dart_tool/
+/pubspec.lock
+/doc/api
+
+# IDE
+
+.idea/
+
+# Generated
+
+/coverage-suite/
