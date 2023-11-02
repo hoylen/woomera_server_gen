@@ -15,7 +15,7 @@ import 'package:woomera_server_gen/woomera_server_gen.dart';
 // Nothing is invoked in it, but it must be imported so the annotations in it
 // can be found by the dart:mirror package.
 
-// ignore: unused_import, avoid_relative_lib_imports
+// ignore: unused_import, avoid_relative_lib_imports, directives_ordering
 import 'demo_server/lib/demo_server.dart';
 
 /// Name of the library being scanned for annotations.

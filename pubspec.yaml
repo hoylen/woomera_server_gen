@@ -1,6 +1,6 @@
 name: woomera_server_gen
-description: Generates woomera server code from woomera annotations.
-version: 0.0.1
+description: Generates woomera server Dart code from woomera annotations.
+version: 0.0.2
 repository: https://github.com/hoylen/woomera_server_gen
 
 environment:
@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   logging: ^1.2.0
-  woomera: ^8.0.0
+  woomera: ^8.0.1
 
 dev_dependencies:
   args: ^2.4.2
